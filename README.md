@@ -1,6 +1,6 @@
 # CombattingDisinformation
 
-Asatya is a browser extension that bundles a suite of tools to fight disinformation on the web. These inform the user of a news report's reliability, media bias and objectivity using sophisticated Machine Learning Models.The extension summarises the report for the user's convenience, and suggests similar verified articles.
+BTP-Factcheck is a browser extension that bundles a suite of tools to fight disinformation on the web. These inform the user of a news report's reliability, media bias and objectivity using sophisticated Machine Learning Models.The extension summarises the report for the user's convenience, and suggests similar verified articles.
 
 
 ## Usage
@@ -44,9 +44,10 @@ Now at the top right pin our “Asatya” extension and enjoy the seamless exper
 ##  [Demo Video](https://youtu.be/UaPHJ3a_eC4)
 
 ## Team
-- Aaryak Garg
 - Arsh Kohli
-- Manan Suri
+- Mohit Godara
+- Satvik Gupta
+- Rishabh Thakur
 
 ## Attributions
 [Kaggle: Fake and real news dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)<br/>
